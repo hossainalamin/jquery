@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<student>
+		<name>Alamin</name>
+		<skill>PHP</skill>
+		<institution>JnU</institution>
+	</student>
+	<student>
+		<name>Rokeb</name>
+		<skill>PHP</skill>
+		<institution>GBC</institution>
+	</student>
+</person>
